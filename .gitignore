@@ -18,12 +18,9 @@ mono_crash.*
 
 # Build results
 [Dd]ebug/
-[Dd]ebugPublic/
 [Rr]elease/
-[Rr]eleases/
 x64/
 x86/
-[Ww][Ii][Nn]32/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
@@ -221,6 +218,7 @@ FodyWeavers.xsd
 *.mdf
 *.ldf
 *.ndf
+*.sql
 
 # Business Intelligence projects
 *.rdl.data
@@ -310,3 +308,6 @@ ASALocalRun/
 
 # NVidia Nsight GPU debugger configuration file
 *.nvuser
+
+# Ignore appsettings files
+appsettings*.json
