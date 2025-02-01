@@ -167,3 +167,9 @@ D:\SampleApi\obj\Debug\net8.0\refint\SampleApi.dll
 D:\SampleApi\obj\Debug\net8.0\SampleApi.pdb
 D:\SampleApi\obj\Debug\net8.0\SampleApi.genruntimeconfig.cache
 D:\SampleApi\obj\Debug\net8.0\ref\SampleApi.dll
+D:\SampleApi\bin\Debug\net8.0\publish\web.config
+D:\SampleApi\bin\Debug\net8.0\publish\appsettings.Development.json
+D:\SampleApi\bin\Debug\net8.0\publish\appsettings.json
+D:\SampleApi\bin\Debug\net8.0\publish\SampleApi.deps.json
+D:\SampleApi\bin\Debug\net8.0\publish\SampleApi.runtimeconfig.json
+D:\SampleApi\obj\Debug\net8.0\SampleApi.sourcelink.json
