@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/f62ba626-4055-4fa7-8518-88787b5cd0ba/resourceGroups/practise-rg/providers/Microsoft.Web/sites/ApiApp",
-    "appService.deploySubpath": "publish"
-}
