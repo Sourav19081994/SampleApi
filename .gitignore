@@ -311,3 +311,9 @@ ASALocalRun/
 
 # Ignore appsettings files
 appsettings*.json
+
+# Ignore publish directory
+publish/
+
+# Ignore .vscode folder
+.vscode/

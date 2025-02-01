@@ -28,5 +28,5 @@ namespace SampleApi.Controllers
                 return BadRequest(ex.Message);
             }
         }
-    } 
+    }  
 }
